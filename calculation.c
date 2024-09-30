@@ -7,8 +7,7 @@ sub()
 mul()
 { printf("Multiplication") ; 
 }
-  printf("New");
-div()
-{ printf("Division");
+  
+div();
 }
 }
