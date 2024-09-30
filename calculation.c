@@ -1,8 +1,9 @@
 main()
 { 
 add()
-{ print("Addition"); }
-sub();
+{ printf("Addition"); }
+sub()
+{ printf("Subtraction"); }
 mul()
 { printf("Multiplication") ; 
 }
